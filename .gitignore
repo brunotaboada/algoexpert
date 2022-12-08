@@ -1,0 +1,8 @@
+/test
+/*.js
+/Docs
+*.jar
+**/*.class
+/.idea
+.idea
+idea/
